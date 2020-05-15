@@ -28,6 +28,7 @@
     "drupal/schemata": "^1.0@alpha",
     "drupal/simple_oauth": "^4.0",
     "drupal/subrequests": "^2.0",
+    "drupal/paragraphs": "^1.11",
     "drupal/openapi_ui": "^1.0@rc",
     "drupal/openapi_ui_redoc": "^1.0@rc",
     "drupal/warmer": "^1.1"

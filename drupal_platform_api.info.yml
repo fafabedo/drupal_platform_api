@@ -37,7 +37,6 @@ install:
   - views_ui
   - automated_cron
   - admin_toolbar
-  - adminimal_theme
   - consumers
   - consumer_image_styles
   - jsonapi_extras
@@ -53,7 +52,7 @@ dependencies:
   - node
   - block
   - views
-  
+
 themes:
   - bartik
   - seven

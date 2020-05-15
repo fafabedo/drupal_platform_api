@@ -1,0 +1,10 @@
+uuid: 7b4a4706-a207-4fb7-8449-b1fc1bfd200a
+langcode: en
+status: true
+dependencies: {  }
+id: header_banner_component
+label: 'Header Banner Component'
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

@@ -4,7 +4,7 @@ description: 'Drupal Platform API'
 core: 8.x
 
 distribution:
-  name: 'BedoyaTech Inc.'
+  name: 'BedoyaTech Drupal Platform API'
   langcode: en
 
 install:

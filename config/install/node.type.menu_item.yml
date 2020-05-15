@@ -1,0 +1,17 @@
+uuid: 2f713cf0-ffbb-40ed-a892-350ecd9306ba
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: 'Menu item'
+type: menu_item
+description: 'Restaurant menu item (dishes, beverages, etc)'
+help: ''
+new_revision: false
+preview_mode: 0
+display_submitted: false

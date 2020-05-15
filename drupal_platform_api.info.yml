@@ -4,7 +4,8 @@ description: 'Drupal Platform API'
 core: 8.x
 
 distribution:
-  name: 'My Kick-ass Distribution'
+  name: 'BedoyaTech Inc.'
+  langcode: en
 
 install:
   - node
@@ -47,7 +48,14 @@ install:
   - openapi_ui_redoc
   - paragraphs
   - simple_oauth
+
+dependencies:
+  - node
+  - block
+  - views
+  
 themes:
   - bartik
   - seven
-  - 
+  - adminimal_theme
+

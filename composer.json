@@ -1,0 +1,43 @@
+{
+  "name": "fafabedo/drupal_platform_api",
+  "description": "BedoyaTech Profile to install Drupla platform",
+  "type": "drupal-profile",
+  "authors": [
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": "GPL-2.0-or-later",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packages.drupal.org/8"
+    }
+  ],
+  "require": {
+    "drupal/admin_toolbar": "^2.2",
+    "drupal/adminimal_theme": "^1.5",
+    "drupal/consumer_image_styles": "^3.0@rc",
+    "drupal/consumers": "^1.8",
+    "drupal/decoupled_router": "^1.1",
+    "drupal/environment_indicator": "^3.7",
+    "drupal/jsonapi_boost": "^1.0",
+    "drupal/jsonapi_extras": "^3.13",
+    "drupal/jsonrpc": "^1.0@beta",
+    "drupal/openapi": "^2.0@rc",
+    "drupal/openapi_jsonapi": "^2.0@rc",
+    "drupal/schemata": "^1.0@alpha",
+    "drupal/simple_oauth": "^4.0",
+    "drupal/subrequests": "^2.0",
+    "drupal/openapi_ui": "^1.0@rc",
+    "drupal/openapi_ui_redoc": "^1.0@rc",
+    "drupal/warmer": "^1.1"
+  },
+  "config": {
+    "process-timeout": 0
+  },
+  "require-dev": {
+    "drupal/config_inspector": "1.x-dev",
+    "drupal/coder": "^8.2",
+    "guzzlehttp/guzzle": "~6.0"
+  }
+}

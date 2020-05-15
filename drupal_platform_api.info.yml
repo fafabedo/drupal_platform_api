@@ -1,0 +1,53 @@
+name: Drupal Platform API
+type: profile
+description: 'Drupal Platform API'
+core: 8.x
+
+distribution:
+  name: 'My Kick-ass Distribution'
+
+install:
+  - node
+  - history
+  - block
+  - ckeditor
+  - color
+  - config
+  - contextual
+  - menu_link_content
+  - datetime
+  - block_content
+  - quickedit
+  - editor
+  - help
+  - image
+  - options
+  - path
+  - page_cache
+  - dynamic_page_cache
+  - taxonomy
+  - dblog
+  - search
+  - shortcut
+  - toolbar
+  - field_ui
+  - file
+  - views
+  - views_ui
+  - automated_cron
+  - admin_toolbar
+  - adminimal_theme
+  - consumers
+  - consumer_image_styles
+  - jsonapi_extras
+  - jsonrpc
+  - openapi
+  - openapi_jsonapi
+  - openapi_ui
+  - openapi_ui_redoc
+  - paragraphs
+  - simple_oauth
+themes:
+  - bartik
+  - seven
+  - 

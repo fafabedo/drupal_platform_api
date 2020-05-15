@@ -1,4 +1,3 @@
-uuid: 12668c48-7d90-4190-aa45-d8fa1bec88f2
 langcode: en
 status: true
 dependencies:
@@ -8,8 +7,6 @@ dependencies:
   module:
     - file
     - media
-_core:
-  default_config_hash: rQoPQKvhehKl_xDCFHeMJ5nA5i6bxUSdrNxazOSPGTg
 id: media.field_media_document
 field_name: field_media_document
 entity_type: media

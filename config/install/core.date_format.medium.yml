@@ -1,9 +1,6 @@
-uuid: 02dff55e-c09d-4cb6-82a3-e6cea8d84d2f
 langcode: en
 status: true
 dependencies: {  }
-_core:
-  default_config_hash: nzL5d024NjXIX_8TlT6uFAu973lmfkmHklJC-2i9rAE
 id: medium
 label: 'Default medium date'
 locked: false

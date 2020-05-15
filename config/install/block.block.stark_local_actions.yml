@@ -1,11 +1,8 @@
-uuid: 01f4f159-18e4-47e1-b8dc-41092ca83a4b
 langcode: en
 status: true
 dependencies:
   theme:
     - stark
-_core:
-  default_config_hash: 13GQpeITIJsp1kyPniXtWZfyFH87vb1xxJCHifL4UeE
 id: stark_local_actions
 theme: stark
 region: content

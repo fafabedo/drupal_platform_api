@@ -1,11 +1,8 @@
-uuid: 24aa2a5b-5ae7-4655-9413-bbd294c7df20
 langcode: en
 status: true
 dependencies:
   module:
     - user
-_core:
-  default_config_hash: nCa1oy25w2fh-nk_iQ7IJFQwQIcKxrV_5EQW2y8dzPc
 id: who_s_new
 label: 'Who''s new'
 module: user

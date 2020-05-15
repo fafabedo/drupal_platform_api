@@ -1,4 +1,3 @@
-uuid: b621ddd8-b650-466d-b14d-b8d0038a5acf
 langcode: en
 status: true
 dependencies:
@@ -39,8 +38,6 @@ resourceFields:
     enhancer:
       id: ''
     disabled: false
-  _core:
-    fieldName: _core
     publicName: _core
     enhancer:
       id: ''

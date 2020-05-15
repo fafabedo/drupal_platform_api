@@ -1,4 +1,3 @@
-uuid: 9ee9a839-7882-4ba3-8467-04f6aa6fd123
 langcode: en
 status: true
 dependencies:
@@ -8,8 +7,6 @@ dependencies:
     - system
   theme:
     - yorkshire
-_core:
-  default_config_hash: 8a31Ywc1t2zlddGd3bmDrFMefWqgSK2E02ceFdr-bfc
 id: yorkshire_account_menu
 theme: yorkshire
 region: brand

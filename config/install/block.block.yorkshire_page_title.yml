@@ -1,11 +1,8 @@
-uuid: 7196b960-1114-4c74-8c96-57e9bc524e04
 langcode: en
 status: true
 dependencies:
   theme:
     - yorkshire
-_core:
-  default_config_hash: 7rR9chwXvdM2H8OYMAYx9Zj3GGlPMrZp_M3ZA4thYTk
 id: yorkshire_page_title
 theme: yorkshire
 region: content

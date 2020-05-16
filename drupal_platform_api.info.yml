@@ -45,6 +45,8 @@ install:
   - admin_toolbar_tools
   - consumers
   - field_group
+  - media
+  - media_library
   - language
   - jsonapi_extras
   - jsonrpc

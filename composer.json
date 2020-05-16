@@ -14,7 +14,6 @@
     }
   ],
   "require": {
-    "drupal/admin_toolbar": "^2.2",
     "drupal/adminimal_theme": "^1.5",
     "drupal/consumer_image_styles": "^3.0@rc",
     "drupal/consumers": "^1.8",

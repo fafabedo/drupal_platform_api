@@ -14,10 +14,11 @@
     }
   ],
   "require": {
+    "drupal/admin_toolbar": "^2.2",
     "drupal/adminimal_theme": "^1.5",
+    "drupal/config_split": "^1.4",
     "drupal/consumer_image_styles": "^3.0@rc",
     "drupal/consumers": "^1.8",
-    "drupal/config_split": "^1.4",
     "drupal/decoupled_router": "^1.1",
     "drupal/environment_indicator": "^3.7",
     "drupal/field_group": "^3.0",

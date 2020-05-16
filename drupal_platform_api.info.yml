@@ -57,6 +57,7 @@ install:
   - paragraphs
   - schemata
   - schemata_json_schema
+  - platform-paragraph
 
 dependencies:
   - node

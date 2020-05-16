@@ -1,6 +1,6 @@
 name: Drupal Platform API
 type: profile
-description: 'Drupal Platform API'
+description: 'Drupal Platform API profile install to provide initial build'
 core: 8.x
 
 install:
@@ -40,6 +40,7 @@ install:
   - tour
   - automated_cron
   - admin_toolbar
+  - admin_toolbar_tools
   - consumers
   - consumer_image_styles
   - jsonapi_extras
@@ -50,6 +51,8 @@ install:
   - openapi_ui_redoc
   - paragraphs
   - simple_oauth
+  - schemata
+  - schemata_json_schema
 
 dependencies:
   - node

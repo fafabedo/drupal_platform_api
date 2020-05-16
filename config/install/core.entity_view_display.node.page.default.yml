@@ -3,13 +3,8 @@ status: true
 dependencies:
   config:
     - field.field.node.page.body
-    - field.field.node.page.field_component
-    - field.field.node.page.field_header_banner
-    - field.field.node.page.field_path
-    - field.field.node.page.field_website
     - node.type.page
   module:
-    - entity_reference_revisions
     - text
     - user
 id: node.page.default
@@ -24,42 +19,10 @@ content:
     region: content
     settings: {  }
     third_party_settings: {  }
-  field_component:
-    type: entity_reference_revisions_entity_view
-    weight: 102
-    label: above
-    settings:
-      view_mode: default
-      link: ''
-    third_party_settings: {  }
-    region: content
-  field_header_banner:
-    type: entity_reference_revisions_entity_view
-    weight: 103
-    label: above
-    settings:
-      view_mode: default
-      link: ''
-    third_party_settings: {  }
-    region: content
-  field_path:
-    weight: 105
-    label: above
-    settings:
-      link_to_entity: false
-    third_party_settings: {  }
-    type: string
-    region: content
-  field_website:
-    weight: 104
-    label: above
-    settings:
-      link: true
-    third_party_settings: {  }
-    type: entity_reference_label
-    region: content
   links:
     weight: 101
     region: content
+    settings: {  }
+    third_party_settings: {  }
 hidden:
   langcode: true

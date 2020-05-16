@@ -1,13 +1,9 @@
 langcode: en
-status: true
+status: false
 dependencies:
   config:
     - core.entity_view_mode.node.teaser
     - field.field.node.page.body
-    - field.field.node.page.field_component
-    - field.field.node.page.field_header_banner
-    - field.field.node.page.field_path
-    - field.field.node.page.field_website
     - node.type.page
   module:
     - text
@@ -29,8 +25,4 @@ content:
     weight: 101
     region: content
 hidden:
-  field_component: true
-  field_header_banner: true
-  field_path: true
-  field_website: true
   langcode: true

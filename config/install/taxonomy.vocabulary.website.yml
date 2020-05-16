@@ -1,7 +1,0 @@
-langcode: en
-status: true
-dependencies: {  }
-name: Website
-vid: website
-description: ''
-weight: 0

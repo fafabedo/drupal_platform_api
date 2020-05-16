@@ -1,13 +1,13 @@
-uuid: 365d2ce0-a3ff-433f-a36e-1a0cb56dfdc0
+uuid: cac66ec3-9d07-41ea-b4d4-3299e02886bc
 langcode: en
 status: true
 dependencies:
   module:
-    - system
-id: action--action
+    - tour
+id: tour--tour
 disabled: true
-path: action/action
-resourceType: action--action
+path: tour/tour
+resourceType: tour--tour
 resourceFields:
   uuid:
     fieldName: uuid
@@ -57,21 +57,21 @@ resourceFields:
     enhancer:
       id: ''
     disabled: false
-  type:
-    fieldName: type
-    publicName: type
+  module:
+    fieldName: module
+    publicName: module
     enhancer:
       id: ''
     disabled: false
-  plugin:
-    fieldName: plugin
-    publicName: plugin
+  routes:
+    fieldName: routes
+    publicName: routes
     enhancer:
       id: ''
     disabled: false
-  configuration:
-    fieldName: configuration
-    publicName: configuration
+  tips:
+    fieldName: tips
+    publicName: tips
     enhancer:
       id: ''
     disabled: false

@@ -3,6 +3,10 @@ type: profile
 description: 'Drupal Platform API profile install to provide initial build'
 core: 8.x
 
+distribution:
+  name: Drupal Platform API
+  langcode: en
+
 install:
   - node
   - history
@@ -40,7 +44,8 @@ install:
   - admin_toolbar
   - admin_toolbar_tools
   - consumers
-  - consumer_image_styles
+  - field_group
+  - language
   - jsonapi_extras
   - jsonrpc
   - openapi
@@ -48,7 +53,6 @@ install:
   - openapi_ui
   - openapi_ui_redoc
   - paragraphs
-  - simple_oauth
   - schemata
   - schemata_json_schema
 

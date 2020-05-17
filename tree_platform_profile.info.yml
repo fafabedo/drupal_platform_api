@@ -46,6 +46,8 @@ install:
   - automated_cron
   - admin_toolbar
   - admin_toolbar_tools
+  - config_filter
+  - config_split
   - consumers
   - field_group
   - media

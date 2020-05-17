@@ -1,4 +1,4 @@
-drupal_platform_api.front_page:
+tree_platform_profile.front_page:
   title: 'Home'
   route_name: '<front>'
   menu_name: main

@@ -2,6 +2,9 @@ name: Drupal Platform API
 type: profile
 description: 'Drupal Platform API profile install to provide initial build'
 core: 8.x
+package: "bedofafa"
+version: '8.x-1.0'
+project: 'tree_platform_profile'
 
 distribution:
   name: Drupal Platform API
@@ -57,7 +60,7 @@ install:
   - paragraphs
   - schemata
   - schemata_json_schema
-  - platform-paragraph
+  - platform_paragraph
 
 dependencies:
   - node

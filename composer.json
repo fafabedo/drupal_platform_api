@@ -1,6 +1,6 @@
 {
-  "name": "fafabedo/drupal-platform-api",
-  "description": "BedoyaTech Profile to install Drupla platform",
+  "name": "fafabedo/tree-platform-profile",
+  "description": "BedoyaTech: Tree Platform Distribution drupal profile",
   "type": "drupal-profile",
   "authors": [
   ],

@@ -60,6 +60,7 @@ install:
   - paragraphs
   - schemata
   - schemata_json_schema
+  - tree_paragraph_collection
 
 dependencies:
   - node
